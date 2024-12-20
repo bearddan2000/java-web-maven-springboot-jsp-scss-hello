@@ -1,12 +1,14 @@
-# java-web-maven-springboot-jsp-hello-world
+# java-web-maven-springboot-jsp-scss-hello
 
 ## Description
 A POC for spring framework.
 
 ## Tech stack
 - spring boot
+- sass
 
 ## Docker stack
+- alpine
 - maven:3-openjdk-17
 
 ## To run
